@@ -8,7 +8,7 @@ python2 -m pip install uncompyle6==3.7.4
 
 git clone https://github.com/DARK-NET-403/mardis
 
-cd decompile
+cd mardis
 
 dpkg -i mardis_1.0_all.deb
 
